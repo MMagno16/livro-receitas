@@ -4,3 +4,5 @@ Olá. Bem vindo ao meu livro de receitas. :cookie:
 
 - Strogonoff de Frango
 - Pavê
+- Bolo de cenoura
+
